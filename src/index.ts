@@ -1,7 +1,7 @@
 import { Bot } from './bot'
 
-const ApiKey = 'V7HC4o9Ddk5xIua2FPoMMkc8knLJJcLpXSWOUa4Ny6AOeOMZdfdocINBFALNlvJ8'
-const ApiSecret = 'vUXHJEW1JZzax5vVhdaLyfU8WG5zyXAGR8ujD9gQbMsr1OT790x4u7nBtGJgdShx'
+const ApiKey = ''
+const ApiSecret = ''
 
 const client = new Bot({ apiKey: ApiKey, apiSecret: ApiSecret })
 
